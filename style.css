@@ -1,0 +1,125 @@
+*{
+  margin:0%;
+  scroll-behavior:smooth;
+}
+.head{
+  background-color:#425df5;
+  color:white;
+  text-align:center;
+}
+body{
+  background-color:#0307fc;
+}
+.head2{
+  color:white;
+  padding:10px;
+  text-align:center;
+}
+.profile img{
+  margin-left:40px;
+  margin-top:40px;
+}
+.profile h2{
+  text-align:center;
+  margin-top:10px;
+  color:gold;
+}
+ul{
+  list-style-type:none;
+  background-color:#425df5;
+  margin-top:20px;
+  }
+ ul li{
+   display:inline-block;
+   padding:10px 15px;
+ }
+ a{
+  text-decoration:none;
+  color:white;
+}
+.intro h2{
+  margin-top:30px;
+  text-align:center;
+  color:white;
+}
+.intro p{
+  margin-top:10px;
+  text-align:center;
+  color:white;
+}
+.career h2{
+  margin-top:30px;
+  text-align:center;
+  color:white;
+}
+.career img{
+  margin-left:88px;
+  margin-top:30px;
+}
+.career p{
+  text-align:center;
+  color:white;
+}
+.versatility h2{
+  margin-top:30px;
+  text-align:center;
+  color:white;
+}
+.versatility img{
+  margin-left:75px;
+  margin-top:30px;
+}
+.versatility p{
+  margin-top:10px;
+  text-align:center;
+  color:white;
+}
+.award h2{
+  margin-top:30px;
+  text-align:center;
+  color:white;
+}
+.award p{
+  margin-top:10px;
+  text-align:center;
+  color:white;
+}
+.about h2{
+  margin-top:30px;
+  text-align:center;
+  color:white;
+}
+.about p{
+  margin-top:10px;
+  text-align:center;
+  color:white;
+}
+.reference h2{
+  margin-top:30px;
+  text-align:center;
+  color:white;
+}
+.reference{
+  margin-top:10px;
+  text-align:center;
+}
+.utube{
+  margin-top:10px;
+  text-align:center;
+}
+.google{
+  margin-top:10px;
+  text-align:center;
+}
+.container b{
+  margin-left:60px;
+  color:white;
+}
+.copy{
+   font-size:13px;
+   margin-left:22px;
+   padding-bottom:25px;
+}
+img{
+  border-radius:5px;
+}
