@@ -1,2 +1,9 @@
-# johnny-sins-project
-It's my project am working it for 2 years
+# Johnny-Sins-Tribute
+
+Built this application using :
+* HTML
+* CSS
+
+Johnny-Sins-Tribute is deployed here :
+
+Click here -> https://manoj3690.github.io/johnny-sins-project/
